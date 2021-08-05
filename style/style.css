@@ -60,7 +60,7 @@ body {
 .four .text-box {
   width: 600px;
   margin: 0 auto;
-  border: 3px solid #aaa;
+  border: 3px solid rgb(255, 8, 111);
   border-radius: 5px;
   padding: 10px;
   position: relative;
